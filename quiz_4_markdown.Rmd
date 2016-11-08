@@ -2,7 +2,7 @@
 title: "Lab Quiz 7"
 author: "Janie P. Vu"
 date: "November 8, 2016"
-output: pdf_document
+output: word_document
 ---
 
 # Question a: Hypotheses
