@@ -1,0 +1,31 @@
+---
+title: "Lab Quiz 7"
+author: "Janie P. Vu"
+date: "November 8, 2016"
+output: pdf_document
+---
+
+# Question a: Hypotheses
+
+(1) I hypothesize there to be a positive relationship between self-esteem and academic performance, such that as self-esteem increases, academic performance will also increase.
+
+(2) I hypothesize there to be a negative relationship between self-esteem and quality of dating relationships, such that as self-esteem increases, the quaity of dating relationships will decrease.
+
+(3) I hypothesize there to be a positive relationship between self-esteem and quality of friendships, such that as self-esteem increases, the quality of friendships will also increase. 
+
+# Question b: Analysis Plan A
+
+(1) To test the null hypothesis that there is no relationship between self-esteem and academic performance, I will run a traditional power analysis to estimate the sample size I need to obtain an effect size of .5 (which is suggested to be the population correlation from an extensive meta-analysis). The sample size I would need is approximately 28 people.
+
+(2) To test the null hypothesis that there is no relationship between self-esteem and the quality of dating relationships, I will run a traditional power analysis to estimate the sample size I need to obtain an effect size of -.3 (which is suggested to be the correlation between these two variables from a previous study). The sample size I would need is approximately 84 people.
+
+(3) To test the null hypothesis that there is no relationship between self-esteem and the quality of friendships, I will run a traditional power analysis to estimate the sample size I need to obtain a weak positive effect size of .07 (which is suggested to be the correlation between these two variables from theory papers; Bosco, Aguinis, Singh, Field, & Pierce, 2015). The sample size I would need is approximately 1599 people.
+
+# Question c: Analysis Plan B
+
+(1) To investigate the relationship between self-esteem and academic performance, I will conduct an analysis in the following manner:  I will use a sample size analysis that involves trial-and-error to find the sample size necessary to produce a confidence interval width that does not exceed the population effect size estimate of .5. This calculation reveals that a sample size of 40 is necessary to provide a confidence interval width less than .5, *r* = .5. 95% CI [.22, .70].
+
+(2) To investigate the relationship between self-esteem and quality of dating relationships, I will conduct an analysis in the following manner: first, I will calculate a confidence interval based on the single published study that investigated the relation between self-esteem and quality of dating relationships; second, I will use the lower-bound of the confidence interval in a sample size analysis that involves trial-and-error to find the sample size necessary to produce a confidence interval width that does not exceed the lower-bound of the effect size estimate. A calculation of the lower bound of the confidence interval surrounding *r* = -.3, *N* = 100 was *r* = -.11. The sample size necessary to provide a confidence interval width less than .11 was 1225, *r* = -.11. 95% CI [-.16, -.05]. 
+
+(3) To investigate between self-esteem and quality of friendships, I will conduct a power analysis in the following manner: I will use a sample size analysis that involves trial-and-error to find the sample size necessary to produce a confidence interval width that does not exceed the effect size estimate of .07 (which is a weak positive correlation according to Bosco et al., 2015). This calculation reveals that a sample size of 3150 is necessary to provide a confidence interval width less than .07, *r* = .07. 95% CI [.04, .10].
+
